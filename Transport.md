@@ -2,6 +2,6 @@
 ---
 Select a path
 ## [fight](fight.md)
-## [No](no-fight.md)
+## [No fight](no-fight.md)
 ---
 [Start Over](../README.md)
