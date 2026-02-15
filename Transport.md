@@ -1,7 +1,7 @@
 ## Transport
 ---
 Select a path
-## [fight](http://www.mcdonalds.com/)
-## [No(https://www.takeawayandcafe.com/)
+## [fight](fight.md)
+## [No(no-fight.md)
 ---
 [Start Over](../README.md)
