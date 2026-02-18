@@ -6,4 +6,4 @@ Select a path
 ## [Forgiven](Be-forgiven.md)
 ## [Not forgiven](Lose-contract.md)
 ---
-[Start Over](README.md)
+[Start Over](../README.md)

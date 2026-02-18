@@ -6,4 +6,4 @@ Select a path
 ## [meet with the promoter](meet-with-promoter.md)
 
 ---
-[Start Over](README.md)
+[Start Over](../README.md)
